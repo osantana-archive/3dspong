@@ -7,3 +7,11 @@ Requirements
 ------------
 
 - http://petitcomputer.com
+
+Play
+----
+
+Use the following QR Codes to load first version of the game on your Nintendo 3DS's Petit Computer BASIC:
+
+![First](/qrcodes_v1/qr0_big.png)
+![Second](/qrcodes_v1/qr0_big.png)
