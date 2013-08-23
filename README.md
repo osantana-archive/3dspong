@@ -5,6 +5,11 @@ Basic Pong game implementation in Petit Computer BASIC language for Nintendo
 
 - https://www.youtube.com/watch?v=EPmOGeaCHTM
 
+## Screenshots
+
+![Opening Screen](/pics/opening.jpg "Opening Screen")
+![Game Play](/pics/play.jpg "Game Play")
+
 ## Requirements
 
 - http://petitcomputer.com
