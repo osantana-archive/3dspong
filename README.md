@@ -1,8 +1,9 @@
 # 3DSpong
 
 Basic Pong game implementation in Petit Computer BASIC language for Nintendo
-3DS. You can see a video of the game on Youbube:
-https://www.youtube.com/watch?v=EPmOGeaCHTM
+3DS. You can see a video of the game on Youtube:
+
+- https://www.youtube.com/watch?v=EPmOGeaCHTM
 
 ## Requirements
 
