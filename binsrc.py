@@ -8,6 +8,7 @@ import sys
 
 SOURCE_START = 0x3C
 CHARMAP = {
+    "\r": os.linesep,
     "\x98": "┌",
     "\x95": "─",
     "\x99": "┐",
@@ -26,9 +27,7 @@ def main():
 
     with open(binary, "rb") as binfile:
         binfile.seek(SOURCE_START)
-        raw_code = binfile.read()
-
-    code = raw_code.replace("\r", os.linesep)
+        code = binfile.read()
 
     for src, target in CHARMAP.iteritems():
         code = code.replace(src, target)
